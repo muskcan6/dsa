@@ -1,4 +1,8 @@
 class Solution {
+    // tc --  without memo -- n ^ d (har index pe i can break and ese i can take n indexes aur max depth tree ki d hai so n power d) space -- recursion stack space o(d)
+
+    // tc with memo - d * n^2 (d*n states hai aur har state mein max khojenge jo approx again n time lega so d * n power 2) -- space -- o(n*d)
+
     Integer[][] dp;
 
     public int minDifficulty(int[] jd, int d) {
