@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/muskcan6/dsa/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/muskcan6/dsa/tree/master/0263-ugly-number) |
 ## Trie
 |  |
