@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskcan6/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/muskcan6/dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/muskcan6/dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -68,9 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
