@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskcan6/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/muskcan6/dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/muskcan6/dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskcan6/dsa/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
