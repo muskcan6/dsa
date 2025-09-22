@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muskcan6/dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/muskcan6/dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskcan6/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -80,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/muskcan6/dsa/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
