@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/muskcan6/dsa/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/muskcan6/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/muskcan6/dsa/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/muskcan6/dsa/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
