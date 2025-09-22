@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muskcan6/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muskcan6/dsa/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/muskcan6/dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
