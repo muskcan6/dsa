@@ -63,7 +63,9 @@ class Solution {
         // finding longest = considering the size of smallest prefix is m -- o (m) time
 
         //max time is taken for insertion, so if total n chars are considered then tc nd sc becomes o(n)
-        
+
+        // use binary search -- find minlength of all strings that will be our high and low will be 1, try finding mid and substring(0, mid) -- check if all strings in list startsWith this substring, if yes increase low otherwise decreaes high
+        // o(s. log m) space is constant -- s is total number of characters
 
         String small = strs[0];
 
@@ -73,6 +75,32 @@ class Solution {
             insert(s);
         }
 
-        return longest(small);
+        // return longest(small);
+
+        return bs(strs);
+    }
+
+    private String bs(String[] strs) {
+        int min = strs[0].length();
+        for (String s : strs) min = Math.min(min, s.length());
+
+        int low = 1, high = min;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (check(strs, mid)) low = mid + 1; else high = mid - 1;
+        }
+
+        // System.out.println(low + " ** " + high);
+        return strs[0].substring(0, (low + high) / 2);
+    }
+
+    private boolean check(String strs[], int k) {
+        String sw = strs[0].substring(0, k);
+        for (String s : strs) {
+            if (!s.startsWith(sw)) return false;
+        }
+
+        return true;
     }
 }
