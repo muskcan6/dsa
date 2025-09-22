@@ -7,10 +7,17 @@ class Solution {
 
         for (int i : nums1) set.add(i);
 
-        Set<Integer> res = new HashSet();
-        for (int i : nums2) res.add(i);
+        // Set<Integer> res = new HashSet();
 
-        res.retainAll(set);
+        List<Integer> res = new ArrayList();
+        for (int i : nums2) {
+            if (set.contains(i)) {
+                res.add(i);
+                set.remove(i);
+            }
+        }
+
+        // res.retainAll(set);
 
         return res.stream().mapToInt(Integer::intValue).toArray();
     }
