@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muskcan6/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muskcan6/dsa/tree/master/0020-valid-parentheses) |
+| [0165-compare-version-numbers](https://github.com/muskcan6/dsa/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/muskcan6/dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Backtracking
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/muskcan6/dsa/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/muskcan6/dsa/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
