@@ -86,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muskcan6/dsa/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/muskcan6/dsa/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/muskcan6/dsa/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/muskcan6/dsa/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
