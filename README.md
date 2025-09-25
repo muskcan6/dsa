@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskcan6/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/muskcan6/dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/muskcan6/dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskcan6/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0733-flood-fill](https://github.com/muskcan6/dsa/tree/master/0733-flood-fill) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/muskcan6/dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskcan6/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/muskcan6/dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## String
