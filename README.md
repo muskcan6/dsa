@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/muskcan6/dsa/tree/master/0009-palindrome-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muskcan6/dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/muskcan6/dsa/tree/master/0263-ugly-number) |
+| [1642-water-bottles](https://github.com/muskcan6/dsa/tree/master/1642-water-bottles) |
 ## Trie
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/muskcan6/dsa/tree/master/0733-flood-fill) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/muskcan6/dsa/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
