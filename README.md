@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/muskcan6/dsa/tree/master/0733-flood-fill) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/muskcan6/dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/muskcan6/dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskcan6/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/muskcan6/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -84,17 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/muskcan6/dsa/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/muskcan6/dsa/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskcan6/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muskcan6/dsa/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/muskcan6/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskcan6/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muskcan6/dsa/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/muskcan6/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskcan6/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
